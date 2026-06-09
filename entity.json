@@ -1,0 +1,221 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Plumber",
+      "@id": "https://www.plumberyork247.co.uk/#business",
+      "name": "DM Plumbing Services",
+      "url": "https://www.plumberyork247.co.uk/",
+      "telephone": "07719 999769",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "22 Waterman Ct, Acomb, York YO24 3FB, United Kingdom",
+        "addressLocality": "York",
+        "addressCountry": "United Kingdom"
+      },
+      "description": "DM Plumbing Services is a family-run plumbing business based in York and the surrounding areas, offering residential, commercial, and emergency plumbing services 24/7. The company also provides property maintenance, plumbing repairs, and related services with reasonable rates.",
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "York"
+        },
+        {
+          "@type": "City",
+          "name": "Selby"
+        },
+        {
+          "@type": "City",
+          "name": "Pocklington"
+        },
+        {
+          "@type": "City",
+          "name": "Huntington"
+        },
+        {
+          "@type": "City",
+          "name": "Haxby"
+        },
+        {
+          "@type": "City",
+          "name": "Riccall"
+        },
+        {
+          "@type": "City",
+          "name": "Tadcaster"
+        },
+        {
+          "@type": "City",
+          "name": "Sherburn in Elmet"
+        },
+        {
+          "@type": "City",
+          "name": "Bishopthorpe"
+        },
+        {
+          "@type": "City",
+          "name": "Nether Poppleton"
+        },
+        {
+          "@type": "City",
+          "name": "Strensall"
+        },
+        {
+          "@type": "City",
+          "name": "Hemingbrough"
+        },
+        {
+          "@type": "City",
+          "name": "Copmanthorpe"
+        },
+        {
+          "@type": "City",
+          "name": "Market Weighton"
+        },
+        {
+          "@type": "City",
+          "name": "Poppleton"
+        },
+        {
+          "@type": "City",
+          "name": "Stamford Bridge"
+        },
+        {
+          "@type": "City",
+          "name": "Wheldrake"
+        },
+        {
+          "@type": "City",
+          "name": "Elvington"
+        },
+        {
+          "@type": "City",
+          "name": "Barmby Moor"
+        },
+        {
+          "@type": "City",
+          "name": "Dunnington"
+        },
+        {
+          "@type": "City",
+          "name": "Bubwith"
+        },
+        {
+          "@type": "City",
+          "name": "Riccall with Skipwith"
+        },
+        {
+          "@type": "City",
+          "name": "Wistow"
+        },
+        {
+          "@type": "City",
+          "name": "Haxby and Wigginton"
+        },
+        {
+          "@type": "City",
+          "name": "Upper Poppleton"
+        },
+        {
+          "@type": "City",
+          "name": "Lower Poppleton"
+        },
+        {
+          "@type": "City",
+          "name": "Bolton Percy"
+        },
+        {
+          "@type": "City",
+          "name": "Appleton Roebuck"
+        },
+        {
+          "@type": "City",
+          "name": "Acaster Malbis"
+        },
+        {
+          "@type": "City",
+          "name": "Great Ouseburn"
+        },
+        {
+          "@type": "City",
+          "name": "Saxton"
+        },
+        {
+          "@type": "City",
+          "name": "Flaxton"
+        },
+        {
+          "@type": "City",
+          "name": "Kexby"
+        },
+        {
+          "@type": "City",
+          "name": "Full Sutton"
+        },
+        {
+          "@type": "City",
+          "name": "Riccall and Stillingfleet"
+        },
+        {
+          "@type": "City",
+          "name": "Warthill"
+        },
+        {
+          "@type": "City",
+          "name": "Burn"
+        },
+        {
+          "@type": "City",
+          "name": "Murton"
+        },
+        {
+          "@type": "City",
+          "name": "Bossall"
+        }
+      ],
+      "knowsAbout": [
+        "Plumber",
+        "Bathroom Installation",
+        "Bathroom Fitter",
+        "Bathroom Remodel",
+        "Bathroom Renovation",
+        "Emergency Plumber",
+        "Tiling",
+        "Property Maintenance",
+        "Kitchen Fitter",
+        "Kitchen Installation",
+        "Kitchen Renovation",
+        "Plumber Near Me",
+        "emergency plumber York",
+        "leak detection York",
+        "dripping tap repair York",
+        "burst pipe repair York",
+        "24/7 plumber York",
+        "plumber York",
+        "Plumber in York",
+        "247 plumber York"
+      ],
+      "sameAs": [
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9392.915087259817!2d-1.127237208120735!3d53.94544425717632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487930d4bfb2c8ef%3A0x974514d00a800be6!2sDM%20Plumbing%20Services!5e0!3m2!1sen!2suk!4v1779132824886!5m2!1sen!2suk"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.plumberyork247.co.uk/#organization",
+      "name": "DM Plumbing Services",
+      "url": "https://www.plumberyork247.co.uk/",
+      "logo": "",
+      "sameAs": [
+        "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9392.915087259817!2d-1.127237208120735!3d53.94544425717632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487930d4bfb2c8ef%3A0x974514d00a800be6!2sDM%20Plumbing%20Services!5e0!3m2!1sen!2suk!4v1779132824886!5m2!1sen!2suk"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.plumberyork247.co.uk/#website",
+      "url": "https://www.plumberyork247.co.uk/",
+      "name": "DM Plumbing Services",
+      "publisher": {
+        "@id": "https://www.plumberyork247.co.uk/#organization"
+      }
+    }
+  ]
+}
